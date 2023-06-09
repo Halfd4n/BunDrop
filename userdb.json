@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "password",
+      "favoriteProductsId": [
+        1,
+        2,
+        12
+      ]
+    }
+  ]
+}

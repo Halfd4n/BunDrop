@@ -1,0 +1,397 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "burger",
+      "name": "Classic Burger",
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "ketchup",
+        "mustard"
+      ],
+      "price": 2.99,
+      "description": "No fuzz, just a classic burger when you don't want the hazzle",
+      "image": "/images/burger-1.png",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "type": "burger",
+      "name": "Charcoal Burger",
+      "ingredients": [
+        "beef patty",
+        "charcoal buns",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ],
+      "price": 4.99,
+      "description": "I guess you like your buns just as your coffee and metal..",
+      "image": "/images/burger-2.png",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "type": "burger",
+      "name": "Double Bacon Cheeseburger",
+      "ingredients": [
+        "beef patty",
+        "bacon",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ],
+      "price": 4.49,
+      "description": "Double the bacon AND double the cheese.. Nuff' said.",
+      "image": "/images/burger-3.png",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "type": "burger",
+      "name": "Mushroom Swiss Burger",
+      "ingredients": [
+        "beef patty",
+        "swiss cheese",
+        "mushrooms",
+        "onion",
+        "lettuce",
+        "mayonnaise"
+      ],
+      "price": 4.29,
+      "description": "Exclusive with pungent swiss cheese and delicious mushrooms",
+      "image": "/images/burger-4.png",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "type": "burger",
+      "name": "BBQ Burger",
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "bacon",
+        "onion rings",
+        "lettuce",
+        "BBQ sauce"
+      ],
+      "price": 3.99,
+      "description": "Sweet and savory coming this way!",
+      "image": "/images/burger-9.png",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "type": "burger",
+      "name": "Chicken Burger",
+      "ingredients": [
+        "grilled chicken patty",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "mayonnaise"
+      ],
+      "price": 2.59,
+      "image": "/images/burger-5.png",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "type": "burger",
+      "name": "Fish Burger",
+      "ingredients": [
+        "breaded fish fillet",
+        "cheese",
+        "lettuce",
+        "tartar sauce"
+      ],
+      "price": 3.99,
+      "description": "Poultry is even tastier between warm buns and leafy greens",
+      "image": "/images/burger-6.png",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "type": "burger",
+      "name": "Turkey Burger",
+      "ingredients": [
+        "turkey patty",
+        "cheese",
+        "lettuce",
+        "tomato",
+        "onion",
+        "mayonnaise"
+      ],
+      "price": 4.29,
+      "description": "Some say it taste like chicken, we say it tastes like turkey",
+      "image": "/images/burger-7.png",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "type": "burger",
+      "name": "Spicy Jalapeno Burger",
+      "ingredients": [
+        "beef patty",
+        "pepper jack cheese",
+        "jalapenos",
+        "lettuce",
+        "tomato",
+        "mayonnaise"
+      ],
+      "price": 3.99,
+      "description": "Your asshole won't thank you later...",
+      "image": "/images/burger-8.png",
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "type": "sides",
+      "name": "Potato Fries",
+      "price": 0.99,
+      "description": "Fried potato deliciousness",
+      "image": "/images/fries-1.png",
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "type": "sides",
+      "name": "Sweet Potato Fries",
+      "price": 1.29,
+      "description": "Sweet ant potatoee, it doesn't get better than this.",
+      "image": "/images/fries-2.png",
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "type": "sides",
+      "name": "Mayonnaise",
+      "price": 0.99,
+      "description": "Can't go wrong with some traditional mayonnaise man",
+      "image": "/images/product_mayo.png",
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "type": "sides",
+      "name": "Bearnaise",
+      "price": 0.99,
+      "description": "When in Paris..",
+      "image": "/images/product_bearnaise.png",
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "type": "sides",
+      "name": "BBQ",
+      "price": 0.99,
+      "description": "Spicy and sweet, just like your mother in law.",
+      "image": "/images/product_bbq.png",
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "type": "sides",
+      "name": "Cheddar smelt",
+      "price": 0.99,
+      "description": "Hot cheese. What could possibly go wrong?",
+      "image": "/images/product_smalt-cheddardip.png",
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "type": "drink",
+      "name": "Chocolate milkshake",
+      "price": 1,
+      "description": "90% milk and 10% shake, the rest is just chocolate..",
+      "image": "/images/milkshake-1.png",
+      "isFavorite": false
+    },
+    {
+      "id": 17,
+      "type": "drink",
+      "name": "Frida Soda",
+      "price": 0.99,
+      "description": "Refreshing taste and perfect with something spicy",
+      "image": "/images/soda-1.png",
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "type": "drink",
+      "name": "Olipop Strawberry/Vanilla",
+      "price": 1.29,
+      "description": "Candy deliciousness",
+      "image": "/images/soda-2.png",
+      "isFavorite": false
+    },
+    {
+      "id": 19,
+      "type": "drink",
+      "name": "Calpis Water",
+      "price": 0.99,
+      "description": "Calpis who? Calpis water!",
+      "image": "/images/soda-3.png",
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "type": "drink",
+      "name": "Positive Energy",
+      "price": 1.29,
+      "description": "Better than cocaine.. So they say",
+      "image": "/images/soda-4.png",
+      "isFavorite": false
+    },
+    {
+      "id": 21,
+      "type": "drink",
+      "name": "Coca-Cola",
+      "price": 0.99,
+      "description": "Taste the feeling.",
+      "image": "/images/cola_33cl_1400px.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": 22,
+      "type": "drink",
+      "name": "Carlsberg Pilsner",
+      "price": 1.29,
+      "description": "Probably the best beer in the world",
+      "image": "/images/carlsberg-new-size.png",
+      "isFavorite": false
+    }
+  ],
+  "orders": [
+    {
+      "products": [
+        {
+          "id": 1,
+          "name": "Classic Burger",
+          "price": 2.99,
+          "quantity": 4
+        },
+        {
+          "id": 4,
+          "name": "Mushroom Swiss Burger",
+          "price": 4.29,
+          "quantity": 4
+        },
+        {
+          "id": 10,
+          "name": "Potato Fries",
+          "price": 0.99,
+          "quantity": 4
+        },
+        {
+          "id": 22,
+          "name": "Carlsberg Pilsner",
+          "price": 1.29,
+          "quantity": 8
+        },
+        {
+          "id": 15,
+          "name": "Cheddar smelt",
+          "price": 0.99,
+          "quantity": 2
+        }
+      ],
+      "cost": "45.38",
+      "date": "2/5, 2023 (21:0:15)",
+      "id": 2
+    },
+    {
+      "products": [
+        {
+          "id": 4,
+          "name": "Mushroom Swiss Burger",
+          "price": 4.29,
+          "quantity": 3
+        },
+        {
+          "id": 20,
+          "name": "Positive Energy",
+          "price": 1.29,
+          "quantity": 3
+        },
+        {
+          "id": 14,
+          "name": "BBQ",
+          "price": 0.99,
+          "quantity": 3
+        },
+        {
+          "id": 10,
+          "name": "Potato Fries",
+          "price": 0.99,
+          "quantity": 3
+        }
+      ],
+      "cost": "22.68",
+      "date": "2/5, 2023 (21:20:51)",
+      "id": 3
+    },
+    {
+      "products": [
+        {
+          "id": 22,
+          "name": "Carlsberg Pilsner",
+          "price": 1.29,
+          "quantity": 2
+        },
+        {
+          "id": 1,
+          "name": "Classic Burger",
+          "price": 2.99,
+          "quantity": 4
+        }
+      ],
+      "cost": "14.54",
+      "date": "3/5, 2023 (9:28:17)",
+      "id": 4
+    },
+    {
+      "products": [
+        {
+          "id": 2,
+          "name": "Charcoal Burger",
+          "price": 4.99,
+          "quantity": 2
+        }
+      ],
+      "cost": "9.98",
+      "date": "3/5, 2023 (9:41:54)",
+      "id": 5
+    },
+    {
+      "products": [
+        {
+          "id": 9,
+          "name": "Spicy Jalapeno Burger",
+          "price": 3.99,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "name": "Charcoal Burger",
+          "price": 4.99,
+          "quantity": 2
+        }
+      ],
+      "cost": "17.96",
+      "date": "3/5, 2023 (10:58:30)",
+      "id": 6
+    }
+  ]
+}
